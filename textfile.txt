@@ -1,2 +1,5 @@
 hi this is text file
 hi hello every
+
+
+hi i added new feature1
